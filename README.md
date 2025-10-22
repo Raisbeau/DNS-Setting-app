@@ -2,7 +2,7 @@
 
 A modern, user-friendly desktop application for managing DNS settings on Windows systems. Built with Python and CustomTkinter, this tool provides an intuitive interface to configure DNS servers across different network interfaces.
 
-## Dark mode mode
+## Dark mode
 ![Dark mode](dark.png)
 
 ## Light mode
